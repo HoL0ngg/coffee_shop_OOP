@@ -25,10 +25,6 @@ public abstract class nhanVien {
 		this.id = id;
 	}
 
-	public String getTen() {
-		return ten;
-	}
-
 	public void setTen(String ten) {
 		this.ten = ten;
 	}
