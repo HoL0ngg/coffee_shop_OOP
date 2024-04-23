@@ -24,7 +24,9 @@ public abstract class nhanVien {
 	public void setId(String id) {
 		this.id = id;
 	}
-
+	public void getTen(){
+		return ten;
+	}
 	public void setTen(String ten) {
 		this.ten = ten;
 	}
